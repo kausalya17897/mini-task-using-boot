@@ -1,0 +1,14 @@
+
+
+.row>*{
+    align-items: center;
+    justify-content:space-around;
+}
+.container{
+    background-color: #f2f7f4;
+}
+
+
+body{
+    font-family: [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans);
+}
